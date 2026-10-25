@@ -33,7 +33,13 @@ Any future code release will be subject to manuscript submission, the relevant j
 
 ## Interpretation
 
-The published summaries should not be interpreted as independent reproduction of the complete report-labeling workflow or as external clinical validation.
+The development-validation macro ROC-AUC (0.851) was calculated using report-derived labels, whereas the internal Expert58 macro ROC-AUC (0.644) was calculated using expert image-derived annotations.
+
+These evaluations used different cohorts and reference standards. Their numerical difference must not be interpreted as a paired decline in model performance.
+
+The Expert58 cohort contains 58 studies and represents an internal reference evaluation, not external clinical validation.
+
+The published summaries do not constitute independent reproduction of the complete report-labeling workflow.
 
 ## Citation
 
