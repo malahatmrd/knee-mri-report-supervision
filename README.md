@@ -19,7 +19,7 @@ The reported analyses address:
 
 ## Results
 
-The `results/` directory will contain selected aggregate results after verification against the finalized manuscript.
+The results/ directory contains selected aggregate research results aligned with the current manuscript, including study statistics, report-label evaluation, and model performance summaries.
 
 Only approved, non-identifiable research summaries will be included.
 
