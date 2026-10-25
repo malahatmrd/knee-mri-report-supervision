@@ -1,0 +1,17 @@
+metric,value,unit,source,verification
+expert_study_finding_pairs,696,pairs,manuscript abstract; notebook03 expert overview,cross_checked
+decisive_assertions,159,pairs,manuscript abstract; notebook03 expert overview,cross_checked
+nondecisive_assertions,537,pairs,notebook03 expert overview,cross_checked
+decisive_coverage,22.8448275862,percent,159/696; manuscript rounds to 22.8%,cross_checked
+present_assertions,106,pairs,manuscript abstract; notebook03 expert by label,cross_checked
+absent_assertions,53,pairs,notebook03 expert by label,cross_checked
+uncertain_assertions,5,pairs,notebook03 expert by label,cross_checked
+unresolved_assertions,46,pairs,notebook03 expert by label,cross_checked
+conflict_assertions,10,pairs,notebook03 expert by label,cross_checked
+no_mention_assertions,476,pairs,notebook03 expert by label,cross_checked
+true_positive_decisive,72,pairs,notebook03 expert by label; supplementary S1.2,cross_checked
+true_negative_decisive,53,pairs,notebook03 expert by label; supplementary S1.2,cross_checked
+false_positive_decisive,34,pairs,manuscript abstract; notebook03 expert by label; supplementary S1.2,cross_checked
+false_negative_decisive,0,pairs,notebook03 expert by label; supplementary S1.2,cross_checked
+present_disagreement_rate,32.0754716981,percent,34/106; manuscript rounds to 32.1%,cross_checked
+decisive_error_rate,21.3836477987,percent,34/159,cross_checked

@@ -1,0 +1,11 @@
+metric,value,unit,source,verification
+source_training_studies,4407,studies,manuscript section 2.2; notebook03 cohort summary,cross_checked
+expert_reference_studies,58,studies,manuscript section 2.3; notebook03 cohort summary,cross_checked
+report_only_pool_studies,4349,studies,manuscript section 2.2; notebook03 cohort summary,cross_checked
+active_development_studies,1815,studies,manuscript section 2.2,manuscript_reported
+active_development_labels,9482,study_finding_pairs,manuscript section 2.2,manuscript_reported
+development_positive_labels,4319,study_finding_pairs,manuscript section 2.2,manuscript_reported
+development_negative_labels,5163,study_finding_pairs,manuscript section 2.2,manuscript_reported
+training_studies,1452,studies,manuscript section 2.2,manuscript_reported
+development_validation_studies,363,studies,manuscript section 2.2,manuscript_reported
+target_findings,12,findings,manuscript section 2.1,cross_checked

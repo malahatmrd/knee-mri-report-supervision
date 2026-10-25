@@ -1,0 +1,5 @@
+evaluation,reference_standard,cohort,n_findings,macro_roc_auc,ci_95_lower,ci_95_upper,source,verification
+development_validation,report_derived,363 development validation studies,12,0.851,,,manuscript abstract and results,manuscript_reported_only
+internal_expert_reference,expert_image_annotations,58 internal expert reference studies,12,0.644,0.592,0.693,manuscript abstract and results,manuscript_reported_only
+matched_decisive_subset,report_derived,matched decisive pairs of eight findings,8,0.788,,,manuscript abstract and matched-case results,manuscript_reported_only
+matched_decisive_subset,expert_image_annotations,same matched decisive pairs of eight findings,8,0.705,,,manuscript abstract and matched-case results,manuscript_reported_only
